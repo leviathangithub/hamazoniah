@@ -1,0 +1,64 @@
+.titulo1{
+	color: #EEEEEE;
+	font-size: 30px;
+}
+.titulo2{
+	color: #EEEEEE;
+	font-size: 20px;
+}
+.lista1{
+	color: #EEEEEE;
+	list-style: circle;
+	margin: 20px;
+}
+.lista2{
+	color: #EEEEEE;
+	list-style: square;
+	margin: 10px;
+}
+.menu{
+	color: #EEEEEE;
+	background-color: #00ADB5;
+	border: 1px solid #393E46; 
+	border-radius: 12px;
+}
+.menu:hover{
+	color: #00ADB5;
+	background-color: #EEEEEE;
+	border: 1px solid #393E46; 
+	border-radius: 12px;
+}
+body{
+	font-family: arial;
+	background-color: #222831;
+}
+.resaltar{
+	color: #00ADB5;
+	font-size: 20px;
+}
+#imagdetalle{
+	width:350px;
+	height:350px;
+	float: left;
+}
+.iconos{
+	width:35px;
+	height:35px;
+	background-color: #EEEEEE;
+	margin-left: 2px;
+}
+.imgmasvendidos{
+	width:300px;
+	height:300px;
+}
+.letra{
+	color: #EEEEEE;
+}
+.los3div{
+	border: 2px solid  #00ADB5;
+}
+#precio{
+	border: 2px solid  red;
+	width: 225px;
+	padding: 5px;
+}
